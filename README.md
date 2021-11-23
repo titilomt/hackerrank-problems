@@ -1,4 +1,4 @@
-# Hackerrank Challengers
+# Hackerrank Challenges
 
 Hackerrank solutions for problems
 
